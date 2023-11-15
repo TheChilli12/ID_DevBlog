@@ -1,0 +1,31 @@
+h3{color:blueviolet}
+.textcolor{color:darkblue}
+.textcolor2{color:burlywood}
+.textcolor3{color:aqua}
+.textcolor4{color:white}
+*{font-family:Helvetica}
+body {background-color: black;}
+
+div {
+  display: flex;
+  flex: 1;
+  align-items: start;
+}
+
+p,
+label {
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+
+input {
+  margin: 0.4rem;
+}
+a { 
+  color: darkblue;
+}
+
+ul{
+  color: white;
+}

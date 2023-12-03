@@ -1,5 +1,5 @@
 h3{color:blueviolet}
-.textcolor{color:darkblue}
+.textcolor{color:pink}
 .textcolor2{color:burlywood}
 .textcolor3{color:aqua}
 .textcolor4{color:white}
@@ -28,4 +28,18 @@ a {
 
 ul{
   color: white;
+}
+
+.large_pic{
+  width: 60%;
+  height: 60%;
+}
+
+.text{
+  font-size: 24px;
+}
+
+.small_pic{
+  width: 250px;
+  height: 250px;
 }
